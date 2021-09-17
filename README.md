@@ -1,6 +1,6 @@
 # Weather Project
 
-Build a simple weather application in React. Limit your time spent on the project to 4 hours.
+Build a simple weather application in React. Limit your time spent on the project to 8 hours.
 
 The user will see a list of cities from cities.json (City List) with a small summary of the current weather for each city. When the user initially goes to the page they will see the first city's 5 Day Forecast. 
 
